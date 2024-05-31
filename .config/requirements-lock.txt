@@ -6,11 +6,11 @@
 #
 distronode-core==2.17.0.dev0
 cffi==1.16.0
-cryptography==41.0.4
+cryptography==42.0.4
 exceptiongroup==1.1.3
 importlib-resources==5.0.7
 iniconfig==2.0.0
-jinja2==3.1.2
+jinja2==3.1.4
 markupsafe==2.1.3
 packaging==23.2
 pluggy==1.3.0
